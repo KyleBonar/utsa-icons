@@ -1,1 +1,1 @@
-# utsa-icons
+This repo serves as a holding place for some of the icons and logos I have created while working at University of Texas at San Antonio. 
